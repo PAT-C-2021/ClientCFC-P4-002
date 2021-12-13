@@ -1,0 +1,5 @@
+D:\semester 5 PAT\ClientCFC-P4-002\ClientCFC-P4-002\bin\Debug\ClientCFC-P4-002.exe.config
+D:\semester 5 PAT\ClientCFC-P4-002\ClientCFC-P4-002\bin\Debug\ClientCFC-P4-002.exe
+D:\semester 5 PAT\ClientCFC-P4-002\ClientCFC-P4-002\bin\Debug\ClientCFC-P4-002.pdb
+D:\semester 5 PAT\ClientCFC-P4-002\ClientCFC-P4-002\obj\Debug\ClientCFC-P4-002.exe
+D:\semester 5 PAT\ClientCFC-P4-002\ClientCFC-P4-002\obj\Debug\ClientCFC-P4-002.pdb
